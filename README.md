@@ -1,7 +1,7 @@
 # TelegramChatBot
 **Overview**
 
-This project involves developing a simple Telegram chatbot using Python and the python-telegram-bot library. The bot, named DIYA's Bot, is designed to interact with users by responding to various text messages and commands. It utilizes basic natural language processing techniques to understand user input and generate appropriate responses.
+This project involves developing a simple Telegram chatbot using Python and the python-telegram-bot library. The bot is designed to interact with users by responding to various text messages and commands. It utilizes basic natural language processing techniques to understand user input and generate appropriate responses.
 
 **Features**
 
