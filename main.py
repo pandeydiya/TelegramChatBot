@@ -11,7 +11,7 @@ logging.info('Starting Bot...')
 
 
 def start_command(update, context):
-    update.message.reply_text('Hello there! I\'m DIYA\'s bot. What\'s up?')
+    update.message.reply_text('Hello there! I\'m a bot. What\'s up?')
     # what happens when the user types /start.
     # context is used for backward compatibility into the documentation.
 
@@ -23,7 +23,7 @@ def help_command(update, context):
 
 
 def custom_command(update, context):
-    update.message.reply_text('Hello there! I\'m DIYA\'s bot.')
+    update.message.reply_text('Hello there! I\'m a bot.')
     # what happens when the user types /start.
     # context is used for backward compatibility into the documentation.
 
