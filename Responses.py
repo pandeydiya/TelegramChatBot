@@ -27,7 +27,7 @@ def get_response(message):  # will take message as an argument.
         process_message(message, ['hello', 'hi', 'hey'], 'Hey there!'),
         process_message(message, ['bye', 'goodbye'], 'Goodbye!'),
         process_message(message, ['how', 'are', 'you'], 'I\'m doing fine thanks!'),
-        process_message(message, ['your', 'name'], 'My name is DIYA\'s bot, nice to meet you!'),
+        process_message(message, ['your', 'name'], 'My name is bot, nice to meet you!'),
         process_message(message, ['help', 'me'], 'I will do my best to assist you!')
     ]
 
